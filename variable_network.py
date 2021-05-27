@@ -92,3 +92,4 @@ if __name__ == "__main__":
 
     print(np.around(nn.activations[-1], 2))
     print('predictions:\n', nn.predict([[1,0,1], [0,0,0]]))
+
